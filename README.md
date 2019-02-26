@@ -9,7 +9,7 @@ Main code:<br/>
 Please see the [adaboost.m](https://github.com/bruce0715/Face_Detection_with_Adaboost/blob/master/Code_and_Data/adaboost.m)
 
 # Note:<br/>
-* This project needs to run 8 hours due to the linear search for constructing weak classifiers.
+* This project needs to run approximate six hours due to the linear search for constructing weak classifiers.
 
 * You need to modify the flags in the code so that you can save some intermediate results first, and then load to use them later. In this way, you can implement this project more efficiently.
 
