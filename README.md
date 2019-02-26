@@ -5,7 +5,7 @@ Please see the [Instruction.pdf](https://github.com/bruce0715/Face_Detection_wit
 For Result:<br/>
 Please see the [Result.pdf](https://github.com/bruce0715/Face_Detection_with_Adaboost/blob/master/Result.pdf)
 
-Main code:<br/>
+For core Code:<br/>
 Please see the [adaboost.m](https://github.com/bruce0715/Face_Detection_with_Adaboost/blob/master/Code_and_Data/adaboost.m)
 
 # Note:<br/>
